@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a **data engineer** turned **data scientist** based out of India with 13+ years of combined experience in data science and engineering. <br>
+I'm a **data engineer** turned **data scientist** based out of India with 14+ years of combined experience in data science and engineering. <br>
 I love to code and in my free time, I run [a blog](https://avinashknmr.medium.com/) where I write about data science and data engineering things that I learn along the way. <br>
 
 ## About Me
 #### 40 Under 40 Data Scientist & Data Engineer
 - **Location**: Bengaluru, India 🇮🇳
-- **Experience**: 13+ years 🧑🏻‍💻
+- **Experience**: 14+ years 🧑🏻‍💻
 - **Education**: MBA 👨‍🎓 (MDI Gurgaon - India 🇮🇳, ESCP Business School - Paris, France 🇫🇷)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinashkanumuru)
@@ -15,7 +15,8 @@ I love to code and in my free time, I run [a blog](https://avinashknmr.medium.co
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/avinashknmr)
 
 ## Experience
-- **2022-** : Senior Manager - Data Science & Engineering @ **Niyo**
+- **2025-** : Associate Director of AI - Engineering & Operations @ **Best Buy India**
+- **2022-2025** : Senior Manager - Data Science & Engineering @ **Niyo**
 - **2021-2022**: Manager - Advanced Analytics AI/ML @ **Standard Chartered**
 - **2014-2021**: Lead Manager / AVP - Business Consulting @ **HSBC**
 - **2013-2014**: Research Analyst @ **Schlumberger**
@@ -36,18 +37,6 @@ I love to code and in my free time, I run [a blog](https://avinashknmr.medium.co
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/ML_Flow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-
-#### Big Data
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apache-spark&logoColor=E35A16)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
-![Confluent Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### Tools
 ![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,6 +50,17 @@ I love to code and in my free time, I run [a blog](https://avinashknmr.medium.co
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apache-spark&logoColor=E35A16)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![Confluent Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
